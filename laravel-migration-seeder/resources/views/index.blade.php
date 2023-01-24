@@ -8,6 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-    @include("components.theHeader")
+    <div class="container text-center mt-4">
+        <h1>Treni</h1>
+    </div>
 </body>
 </html>
